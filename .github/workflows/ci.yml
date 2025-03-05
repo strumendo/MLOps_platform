@@ -28,4 +28,5 @@ jobs:
 
       - name: Run tests
         run: |
+ feature/project-start
           pytest tests/
